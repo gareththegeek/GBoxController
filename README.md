@@ -1,6 +1,6 @@
 # GBoxController
 
-Design for a 32 button USB Windows game controller built using an ATMega328 microcontroller for use with Flight Simulators.
+Design for a 31 button USB Windows game controller built using an ATMega328 microcontroller for use with Flight Simulators.
 
 This software was built using the following tools and libraries
 
@@ -10,10 +10,10 @@ This software was built using the following tools and libraries
 <a href="https://code.google.com/p/diy-layout-creator/">DIY Layout Creator</a><br/>
 <a href="http://fritzing.org/home/">Fritzing</a><br/>
 
-The device utilises the built in Windows human interface device (HID) driver and should appear in the Control Panel under Game Controllers as a 32 button device.  The controller has:
-<ul><li>8 x two way switches
-<li>4 x three way switches
-<li>5 x rotary encoders with push buttons</ul>
+The device utilises the built in Windows human interface device (HID) driver and should appear in the Control Panel under Game Controllers as a 31 button device.  The controller has:
+<ul><li>8 x two way switches (one button each)
+<li>4 x three way switches (two buttons each)
+<li>5 x rotary encoders with push buttons (three buttons each)</ul>
 
 See the schematics folder for logical and physical circuit diagrams.  I have included png renderings of these diagrams in case you don't have/want the relevant software to view them.
 
