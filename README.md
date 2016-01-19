@@ -10,7 +10,7 @@ This software was built using the following tools and libraries
 <a href="https://code.google.com/p/diy-layout-creator/">DIY Layout Creator</a><br/>
 <a href="http://fritzing.org/home/">Fritzing</a><br/>
 
-The device utilises the built in Windows human interaction device (HID) driver and should appear in the Control Panel under Game Controllers as a 32 button device.  The controller has:
+The device utilises the built in Windows human interface device (HID) driver and should appear in the Control Panel under Game Controllers as a 32 button device.  The controller has:
 <ul><li>8 x two way switches
 <li>4 x three way switches
 <li>5 x rotary encoders with push buttons</ul>
